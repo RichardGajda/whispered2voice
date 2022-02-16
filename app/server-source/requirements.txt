@@ -1,0 +1,22 @@
+-f https://download.pytorch.org/whl/torch_stable.html
+AudioConverter==0.3.0
+cffi==1.14.5
+click==7.1.2
+colorama==0.4.4
+Cython==0.29.23
+Flask==1.1.2
+gunicorn==20.1.0
+itsdangerous==1.1.0
+Jinja2==2.11.3
+MarkupSafe==1.1.1
+numpy==1.20.2
+Pillow==8.2.0
+pycparser==2.20
+pydub==0.25.1
+pyworld==0.2.12
+SoundFile==0.10.3.post1
+torch==1.8.1+cpu
+typing-extensions==3.10.0.0
+Werkzeug==1.0.1
+ffmpeg==1.4
+ffprobe-python==1.0.3
